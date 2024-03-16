@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-16T16:58:53 IST" name="Default suite" finished-at="2024-03-16T17:00:53 IST" duration-ms="120161">
+  <suite started-at="2024-03-16T17:38:49 IST" name="Default suite" finished-at="2024-03-16T17:40:55 IST" duration-ms="126058">
     <groups>
     </groups>
-    <test started-at="2024-03-16T16:58:53 IST" name="Default test" finished-at="2024-03-16T17:00:53 IST" duration-ms="120161">
-      <class name="Basic.OrganizationTest">
-        <test-method signature="CreateOrganizationsTest()[pri:0, instance:Basic.OrganizationTest@fba92d3]" started-at="2024-03-16T16:58:53 IST" name="CreateOrganizationsTest" finished-at="2024-03-16T17:00:53 IST" duration-ms="119988" status="PASS">
+    <test started-at="2024-03-16T17:38:49 IST" name="Default test" finished-at="2024-03-16T17:40:55 IST" duration-ms="126058">
+      <class name="Basic.ContactTest">
+        <test-method signature="CreateContactTest()[pri:0, instance:Basic.ContactTest@67c33749]" started-at="2024-03-16T17:38:49 IST" name="CreateContactTest" finished-at="2024-03-16T17:40:55 IST" duration-ms="125925" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CreateOrganizationsTest -->
-      </class> <!-- Basic.OrganizationTest -->
+        </test-method> <!-- CreateContactTest -->
+      </class> <!-- Basic.ContactTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
